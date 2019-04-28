@@ -1,2 +1,2 @@
-# RYZIX-BOT
-new bot!
+# Procfile
+Zindawrs
